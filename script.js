@@ -93,11 +93,6 @@ let DB = {
             { nombre: "Lasaña Blanca", precio_p: 23000, precio_f: 42000 },
             { nombre: "Lasaña Vegetariana", precio_p: 23000, precio_f: 42000 }
         ],
-        lasañas: [
-            { nombre: "Lasaña Especial", precio_p: 23000, precio_m: 32000, precio_f: 42000 },
-            { nombre: "Lasaña Blanca", precio_p: 23000, precio_m: 32000, precio_f: 42000 },
-            { nombre: "Lasaña Vegetariana", precio_p: 23000, precio_m: 32000, precio_f: 42000 }
-],
 // Dentro de DB.menu:
         panzerottis: [
             { nombre: "Marinero", precio: 20000 },
